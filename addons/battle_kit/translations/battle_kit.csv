@@ -1,0 +1,61 @@
+keys,en
+ (critical!), (critical!)
+%s cannot move!,%s cannot move!
+%s defends.,%s defends.
+%s hits %s for %d%s.,%s hits %s for %d%s.
+%s is acting...,%s is acting...
+%s is affected by %s.,%s is affected by %s.
+%s is back on their feet!,%s is back on their feet!
+%s is defeated.,%s is defeated.
+%s is immune to %s.,%s is immune to %s.
+%s is no longer affected by %s.,%s is no longer affected by %s.
+%s misses %s.,%s misses %s.
+%s on %s wears off.,%s on %s wears off.
+%s recovers %d HP from %s.,%s recovers %d HP from %s.
+%s recovers %d HP.,%s recovers %d HP.
+%s recovers %d MP.,%s recovers %d MP.
+%s takes %d damage from %s.,%s takes %d damage from %s.
+%s uses %s.,%s uses %s.
+%s's turn,%s's turn
++%d XP,+%d XP
+Attack,Attack
+Back,Back
+Choose a target for %s (Escape to go back).,Choose a target for %s (Escape to go back).
+Choose another target.,Choose another target.
+Continue,Continue
+Could not escape!,Could not escape!
+Defeat...,Defeat...
+Defend,Defend
+Flee,Flee
+Halves the damage taken until your next turn.,Halves the damage taken until your next turn.
+Immune,Immune
+It is not this fighter's turn.,It is not this fighter's turn.
+Items,Items
+Miss,Miss
+None left in the bag.,None left in the bag.
+Not enough MP.,Not enough MP.
+Skills,Skills
+That did not work.,That did not work.
+The battle is over.,The battle is over.
+There is no escape from this fight!,There is no escape from this fight!
+Turn order,Turn order
+Victory!,Victory!
+You got away!,You got away!
+"Your bag is full, left behind:","Your bag is full, left behind:"
+ (timed!), (timed!)
+ (weak!), (weak!)
+ (resisted), (resisted)
+ (immune), (immune)
+%s absorbs the attack and recovers %d HP.,%s absorbs the attack and recovers %d HP.
+%s reaches level %d!,%s reaches level %d!
+%s attacks! Press at the right moment to guard.,%s attacks! Press at the right moment to guard.
+Attack! Press at the right moment.,Attack! Press at the right moment.
+Weak!,Weak!
+Resist,Resist
+Absorb,Absorb
+Timed!,Timed!
+Great timing!,Great timing!
+Too bad...,Too bad...
+heals it,heals it
+%d damage,%d damage
+%d-%d damage,%d-%d damage
